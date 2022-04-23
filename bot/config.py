@@ -3,8 +3,8 @@ import json
 from distutils.util import strtobool as stb
 
 # --------------------------------------
-BOT_TOKEN = "5002134780:AAGp07Jox4OmJpOwTs9sgW19P1PQH8ObPG8"
-GDRIVE_FOLDER_ID = "1Iaabw5C9wTDGbjKlydQY8i0SPQhSJFoe"
+BOT_TOKEN = ""
+GDRIVE_FOLDER_ID = ""
 # Default folder id.
 OWNER_ID = 1433606591
 # Example: OWNER_ID = 619418070
